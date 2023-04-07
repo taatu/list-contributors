@@ -1,5 +1,6 @@
 # list-contributors
-A python script to print a sorted list of git contributors
+A python script to print a sorted list of git contributors.
+
 Only works on linux with access to a bash shell.
 
 # Usage
